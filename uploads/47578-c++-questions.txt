@@ -1,0 +1,47 @@
+	c++ practical questions:
+1.
+What is OOP? How does it differ from precedural programming?
+2.
+What is inline function? Illustrate with example.
+3.
+Define class and objects. How are data members and memeber function accessed by objects. Give examples.
+4.
+Use class concept of C++ to sort 10 given positive integers using bubble sort.
+5.
+Use class concept to record the marks of five students in five different subjects and display each students' result.
+6.
+Write a C++ program to add two different time having hours, minutes and seconds as attributes. Your answer should to be appropriate enough to be called correct.
+7.
+What is friend function? How does it differ with normal functions? Mention the characteristics of friend function.
+8.
+Create two classes DM and DB which store the value of distances. DM stores distances in metres and centimeteres and DB in feet and inches.
+Write a program that can read values for the class objects and add one object of DM with another object of DB.
+Use a friend function to carry out the addition operation. The object that stores the results may be a DM object or DB object, depending on the units in which the results are required.
+The display should be in the format of feet and inches or metres and centimetres depending on the object on display.
+9.
+What are constructors used for? Explain with its types.
+10.
+Write a program to show the use of all type of constructors.
+11.
+What is operator overloading? Why is it necessary?
+12.
+A friend function cannot be used to overload assignment oprator(=). Explain why?
+13.
+Define a class string. Use overloaded == operator to compare two strings.
+14.
+Define a class distance. Ask user to input two distances one in  foot and inches and other in metres and centimeters. Use overloaded < or > to compare these two distances.
+15.
+Find out the differences between pointers and refrence variables.
+16.
+Define a class REPORT with the following specification:
+Private members :
+adno                         4 digit admission number
+name                        20 characters
+marks                       an array of 5 floating point values
+average                    average marks obtained
+GETAVG()                 a function to compute the average obtained in five subject
+Public members:
+READINFO()              function to accept values for adno, name, marks. Invoke the function GETAVG()             
+DISPLAYINFO()          function to display all data members of report on the screen.
+You should give function definitions.
+17.

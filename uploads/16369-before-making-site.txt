@@ -1,0 +1,28 @@
+Here's a great place to start learning about website design:
+
+http://designshack.net/articles/layouts/10-crucial-elements-for-any-website-design/
+
+For those who want a little more help choosing their fonts:
+
+https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
+
+And if you are struggling to figure out a color scheme this website will make a palette based on a picture:
+
+http://www.pictaculous.com/
+
+Here's some fun design facts:
+
+http://www.designfacts.org/
+
+Melissa often uses grid theory in her designs:
+
+http://www.creativebloq.com/web-design/grid-theory-41411345
+
+As a composer Margaret likes this article about the rhythm of a page:
+
+https://24ways.org/2006/compose-to-a-vertical-rhythm
+
+
+
+extra--------------
+http://fossbytes.com/how-to-build-a-basic-web-crawler-in-python/
